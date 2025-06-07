@@ -5,6 +5,9 @@
 ### [QQQ 回调策略](./qqq_v1/)
 ![](./qqq_v1/qqq_v1_demo.png)
 
+### [GDXU 回调策略](./gdxu_v1/)
+![](./gdxu_v1/gdxu_v1_demo.png)
+
 
 ## 致谢
 
