@@ -8,6 +8,9 @@
 ### [GDXU 回调策略](./gdxu_v1/)
 ![](./gdxu_v1/gdxu_v1_demo.png)
 
+### [TQQQ G3](./tqqq_g3/)
+![](./tqqq_g3/tqqq_g3_demo.png)
+
 
 ## 致谢
 
